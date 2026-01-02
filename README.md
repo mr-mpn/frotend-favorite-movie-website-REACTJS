@@ -96,6 +96,7 @@ src/
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is private and not licensed for public use.
+#
+This project is a variation of the following youtube video where instead of using APIS we focus on adding funcionalities to the frontend , therefore the list of movies that is processed on each refresh is manually set
+Credit to Tim for his awesome videos 
+https://youtu.be/G6D9cBaLViA?si=p3vFA6K3CxxYuIsM
