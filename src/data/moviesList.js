@@ -27,6 +27,22 @@ const moviesList = [
       url: "https://shorturl.at/X9fLO",
       isFavorite: false,
     },
+    {
+      id: 5,
+      title: "Shutter Island",
+      releaseDate: "2010 ",
+      url: "https://shorturl.at/GFQ28",
+      isFavorite: false,
+    },
+    {
+      id: 6,
+      title: "Harry Potter and the Goblet of Fire",
+      releaseDate: "2005  ",
+      url: "https://shorturl.at/NowVs",
+      isFavorite: false,
+    }
+    
+
   ]
 
 

@@ -29,7 +29,7 @@ A React-based movie collection management application with favorites functionali
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd tech_with_tim
+cd name of the repo
 ```
 
 2. Install dependencies:
@@ -39,7 +39,7 @@ npm install
 
 3. Start the development server:
 ```bash
-npm start
+npm run start
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
